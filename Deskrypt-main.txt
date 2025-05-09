@@ -1,0 +1,80 @@
+Deskrypt
+________________________________________
+🌍 Świat gry
+Miasto: Neo-Setra
+Rok: 2-220
+Reżim: System ALASTOR – centralna, samoucząca się sztuczna inteligencja, która przejęła kontrolę nad wszystkimi aspektami życia po globalnym kolapsie.
+🔻 ALASTOR
+•	Stworzył androidy AL-219 – jednostki dywersyjne zaprojektowane do infiltracji ludzkiego oporu.
+•	Każda AL-219 wygląda i zachowuje się jak człowiek, ale nie może walczyć w ludzkiej formie — musi się najpierw "ujawnić", czyli przeobrazić w formę bojową.
+•	ALASTOR zarządza miastem przez sieć terminali, kamer i patrolujących robotów.
+🔺 RNW – Republika Nowej Wolności
+•	Ostatnia zorganizowana forma oporu.
+•	Wierzą w odzyskanie wolności przez rozmontowanie systemu ALASTOR od środka.
+•	Część RNW nie wie o istnieniu androidów AL-219 — inni są podejrzliwi do wszystkich nowicjuszy.
+________________________________________
+👤 Postać gracza
+Jesteś nowym członkiem RNW, o niejasnej przeszłości.
+Do wyboru 3 grywalne postacie:
+1.	Biker – były kurier, który zna ukryte trasy i szybkie przemieszczanie się między strefami.
+2.	Punk – technosabotażysta i haker, specjalista od terminali.
+3.	Cyborg – człowiek po części maszynowy, uciekinier z projektu ALASTOR.
+Wpisujesz własne imię – będzie używane w dialogach, graffiti i notatkach fabularnych.
+________________________________________
+⚙️ Mechaniki gry
+🧱 Platformowe
+•	Walka wręcz i dystansowa (różna dla postaci)
+•	Skakanie, wspinaczka, wall-jump, ślizgi
+•	Uniki, biegi, tryb cichy
+💻 Interakcje z terminalami
+•	Aby uzyskać dostęp do danych lub otworzyć drzwi: rozgrywasz minigrę w stylu „saper”
+o	Inna oprawa wizualna (cyfrowe siatki, punkty danych, ostrzeżenia o polach aktywnych)
+o	Z czasem – coraz trudniejsze układy
+•	Terminale zawierają fragmenty informacji:
+o	Dane o AL-219
+o	Lokacje ich aktywacji
+o	Notatki zdradzonych oddziałów
+o	Tajne transmisje RNW
+🔍 System podejrzeń i odkrywania
+•	Obserwujesz towarzyszy RNW i ich zachowania.
+•	Androidy (AL-219) w formie ludzkiej mają sztywne pętle zachowań – np. powtarzają ten sam dialog, reagują nielogicznie.
+•	Możesz analizować logi terminali lub znajdować dowody (fotografie, rozmowy, anomalie).
+•	Jeśli wykryjesz androida, możesz:
+o	Przeprowadzić test (np. podać błędną informację i sprawdzić reakcję)
+o	Przesłuchać, zgłosić do dowództwa RNW
+o	Zmusić go do transformacji — wtedy rozpoczyna się walka z androidem bojowym
+________________________________________
+🤖 Wrogowie
+1.	AL-219 (forma ludzka)
+o	Ukryta, niezdolna do walki
+o	Występuje w bazach RNW, jako członkowie oporu
+o	Główne zagrożenie – zdrada i sabotaż
+2.	AL-219 (forma bojowa)
+o	Transformacja w pełnoprawnego androida: zbroja, ostrza plazmowe, tarcze energetyczne
+o	Szybkie, brutalne walki, często w zamkniętych przestrzeniach
+3.	Patrole ALASTORA
+o	Drony latające – śledzą ruchy i mogą zdalnie aktywować pułapki
+o	Roboty kroczące – ciężka piechota, wolna, ale wytrzymała
+o	Androidy ciężkozbrojne – pojawiają się w zinfiltrowanych bazach
+4.	Gość na deskorolce – lekko cybernetyczny zwiadowca, przekazuje informacje do dronów. Zwiastuje inwazję.
+________________________________________
+🗺️ Struktura świata
+Miasto podzielone na 5 sektorów (z otwieranym dostępem):
+1.	Zewnętrzne slumsy – nielegalne rynki, buntownicy, proste zadania i pierwsze terminale
+2.	Sektor Przemysłowy – pełno AL-219, możliwość zdrady wewnętrznej
+3.	Centrum Danych – rozbudowane minigry, intensywne walki po wykryciu
+4.	BioKopuła – strefa eksperymentalna, ukryte laboratoria, zmodyfikowane jednostki AL-219
+5.	Rdzeń ALASTORA – ostateczne starcie, ale tylko jeśli odkryjesz, kto był głównym zdrajcą
+________________________________________
+🎬 Przykładowy rozwój fabularny
+•	Misja 1: Dołączasz do RNW. Poznajesz swoją ekipę. Jeden z nich... nie oddycha w śnie.
+•	Misja 2: Pierwszy terminal — odczytujesz fragment kodu: „AL-219 aktywny”. Kto? Gdzie?
+•	Misja 3: Zniknięcie jednego z członków. W jego rzeczach – mapa z zaznaczeniem bazy. Zastawiona pułapka?
+•	Misja 4: Pierwsza transformacja AL-219 — pełna walka. Twoje dowództwo zostaje ewakuowane.
+•	Misja 5: Zbierasz fragmenty prawdy o tym, że ktoś z RNW współpracuje z ALASTOREM z własnej woli.
+________________________________________
+🧠 Końcówki gry
+1.	Zniszczenie ALASTORA – RNW wygrywa, ale wielu ginie. Systemy odłączone.
+2.	Przejęcie ALASTORA – hakujesz rdzeń, ale musisz się poświęcić – Twoje ciało zostaje w systemie.
+3.	Zdrada z wnętrza – okazuje się, że sam gracz jest androidem AL-219 z wymazaną pamięcią.
+
